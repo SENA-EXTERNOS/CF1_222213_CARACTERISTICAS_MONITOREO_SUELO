@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Características y monitoreo del suelo',
+    descripcionCurso:
+      'El suelo como cuerpo natural determinante para los procesos bióticos, abióticos y para la prestación de servicios ecosistémicos, debe ser conocido a detalle con todos los factores que lo caracterizan, para ello se utilizan los muestreos de suelo que permiten obtener información precisa que servirá de base, para la toma de decisiones relacionadas con aspectos productivos, ambientales y de planificación.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -32,14 +37,50 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'El suelo',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Clasificación y nomenclatura',
             hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Características y parámetros físicos',
+            hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Características y componentes biológicos',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Biogeoquímica del suelo',
+            hash: 't_1_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.5',
+            titulo: 'Factores biodegradantes del suelo',
+            hash: 't_1_5',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.6',
+            titulo: 'Riesgos y tratamientos',
+            hash: 't_1_6',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.7',
+            titulo: 'Marco normativo',
+            hash: 't_1_7',
           },
         ],
       },
@@ -48,15 +89,56 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Geomorfología',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Elementos topográficos y agrimensura',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo:
+              'Generalidades del sistema de posicionamiento global (GPS por sus siglas en inglés)',
+            hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo: 'SIG',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Manejo y técnicas de muestreo',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Equipos y herramientas',
+            hash: 't_3_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: 'Elementos de seguridad y salud en el trabajo',
+            hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo: 'Manejo de registros',
+            hash: 't_3_3',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -101,32 +183,117 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Características del suelo',
+      referencia: 'FAO. (sf).  6. Textura del suelo.',
+      tipo: 'Guía práctica',
+      link:
+        'https://www.fao.org/fishery/docs/CDrom/FAO_Training/FAO_Training/General/x6706s/x6706s06.htm',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Técnicas de muestreo y manejo de registros',
+      referencia:
+        'Mendoza, RB & Espinoza A. (2017). Guía técnica para el muestreo de suelos. Universidad Nacional Agraria y Catholic Relief Services (CRS)',
+      tipo: 'Guía',
+      link: 'https://repositorio.una.edu.ni/3613/1/P33M539.pdf',
+    },
+    {
+      tema: 'Concepto de agrimensura',
+      referencia:
+        'Titiosky, VS & Monzón W, A. (2018). La agrimensura en la antigüedad. Extensionismo, innovación y transferencia tecnológica - claves para el desarrollo, vol. 4, pp: 265-267.',
+      tipo: 'Artículo',
+      link:
+        'https://repositorio.unne.edu.ar/xmlui/bitstream/handle/123456789/48174/RIUNNE_FACENA_AR_Titiosky-Monzon.pdf?sequence=1',
+    },
+    {
+      tema: 'Generalidades GPS',
+      referencia:
+        'Leica. (sf). Introducción al Sistema GPS (Sistema de Posicionamiento Global). GPS Basics -1.0.0es.',
+      tipo: 'Libro',
+      link:
+        'http://coello.ujaen.es/asignaturas/topometria/descargas/GPSBasics_es.pdf',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Agregados',
+      significado:
+        'unión de diferentes tipos de suelos que confieren características al mismo como la porosidad.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Aridez',
+      significado: 'falta de agua en el suelo.',
+    },
+    {
+      termino: 'Bacterias fosfatizantes',
+      significado:
+        'encargadas de la transformación del fósforo a formas asimilables por el suelo y las plantas como fosfatos disueltos.',
+    },
+    {
+      termino: 'Intemperismo',
+      significado:
+        'conjunto de procesos que generan el desgaste, descomposición o desintegración de las rocas al estar expuestas a la intemperie.',
+    },
+    {
+      termino: 'Necromasa',
+      significado:
+        'se refiere a todos aquellos residuos de madera presentes en el suelo.',
+    },
+    {
+      termino: 'Neotectónica ',
+      significado:
+        'disciplina encargada del estudio de fallas y pliegues que causan deformación de la corteza terrestre.',
+    },
+    {
+      termino: 'Pedogenético',
+      significado:
+        'relacionado con los procesos de formación del suelo o pedogénesis.',
+    },
+    {
+      termino: 'Pedología',
+      significado: 'rama de la geografía que se encarga de estudiar el suelo.',
+    },
+    {
+      termino: 'Petrología',
+      significado: 'estudio de la composición, estructura y textura de rocas.',
+    },
+    {
+      termino: 'Sedimentos',
+      significado:
+        'partículas de suelo que se ubican en un horizonte después de haber sido arrastradas por el agua.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Bustos G, DG. (2021). Manual teórico de geomorfología de suelos. Universidad autónoma de Baja California.',
+      link:
+        'https://www.researchgate.net/publication/358020444_Manual_Teorico_de_Geomorfologia_de_Suelos/link/61eb888d5779d35951c58184/download',
+    },
+    {
+      referencia: 'Girón V, MM. (2019). Ecología. Universidad del Quindío.',
+    },
+    {
+      referencia:
+        'Gómez   R, DC. (2019). Diagnóstico en terrenos inclinados para el desarrollo de distritos de riego, caso de estudio: veredas de la zona norte del municipio de Paipa. [Proyecto social, Universidad Católica de Colombia].',
+      link:
+        'https://repository.ucatolica.edu.co/bitstream/10983/24233/1/Proyecto%20de%20Grado.pdf',
+    },
+    {
+      referencia:
+        'Mendoza  , RB & Espinoza A. (2017). Guía técnica para el muestreo de suelos. Universidad Nacional Agraria y Catholic Relief Services (CRS)',
+      link: 'https://repositorio.una.edu.ni/3613/1/P33M539.pdf',
+    },
+    {
+      referencia:
+        'Ministerio del medio ambiente  . (2016). Política para la gestión sostenible del suelo. [Política pública, Gobierno de Colombia].',
+      link:
+        'https://www.andi.com.co/Uploads/Pol%C3%ADtica_para_la_gesti%C3%B3n_sostenible_del_suelo_FINAL.pdf',
+    },
+    {
+      referencia:
+        'Porta  , J. López-Acevedo, M. & Poch, R. (2019). Edafología, uso y protección de suelos. Mundi-prensa.',
+      link:
+        'https://books.google.com.co/books?hl=es&lr=&id=SZ3BDwAAQBAJ&oi=fnd&pg=PA5&dq=suelos+&ots=3KLKznmnbk&sig=uYIfClhXunljgme7AH-uGYzmvQo&redir_esc=y#v=onepage&q&f=true',
     },
   ],
   creditos: {
