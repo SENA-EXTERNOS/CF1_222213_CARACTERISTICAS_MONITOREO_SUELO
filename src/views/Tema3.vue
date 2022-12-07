@@ -77,6 +77,9 @@
             li 
               i.fas.fa-leaf(style="color:#85BF50")
               | Registros.
+            li
+              i.fas.fa-leaf(style="color:#85BF50")
+              | Rótulos.
         .col-lg-5.col-8(data-aos="fade-left")
           img(src="@/assets/curso/tema3/img02.svg")
 
