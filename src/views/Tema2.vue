@@ -28,10 +28,10 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 Generalidades del sistema de posicionamiento global (GPS por sus siglas en inglés)
+      h2 2.2 Generalidades del sistema de posicionamiento global (#[em GPS] por sus siglas en inglés)
     
-    p La herramienta usada para medir un terreno es un sistema de posicionamiento global (GPS por sus siglas en inglés), desarrollado para ser más exacto y preciso, ya que sus datos se pueden descargar y por medio de un #[em software] que se conecta con las mediciones al un satélite, arrojando datos exactos con coordenadas y áreas puntuales medidas.
-    .h5.mb-5 El GPS o sistema de posicionamiento global, está basado en satélites artificiales dispuestos en una constelación que brindan una posición precisa al usuario y responden a una de las preguntas más antiguas que se ha hecho el ser humano, ¿en qué lugar de la tierra me encuentro?
+    p La herramienta usada para medir un terreno es un sistema de posicionamiento global (#[em GPS] por sus siglas en inglés), desarrollado para ser más exacto y preciso, ya que sus datos se pueden descargar y por medio de un #[em software] que se conecta con las mediciones al un satélite, arrojando datos exactos con coordenadas y áreas puntuales medidas.
+    .h5.mb-5 El #[em GPS] o sistema de posicionamiento global, está basado en satélites artificiales dispuestos en una constelación que brindan una posición precisa al usuario y responden a una de las preguntas más antiguas que se ha hecho el ser humano, ¿en qué lugar de la tierra me encuentro?
     
     .row.justify-content-center.mb-4(data-aos="zoom-out")
       AcordionA.mb-5(tipo="a" clase-tarjeta="BGR10")
@@ -47,18 +47,18 @@
             img(src="@/assets/curso/tema2/img06.svg")
         .row.justify-content-center(titulo="Estación de observación")
           .col-lg-6.order-lg-1.order-2
-            p.mb-0 El segmento de control consiste en una estación de control maestro, cinco estaciones de observación y cuatro antenas de tierra distribuidas en cinco puntos muy cercanos al Ecuador terrestre. Estos cumplen con la función de reconocer la ubicación de cada satélite, sus señales son leídas en las estaciones y enviadas al centro de control, donde son procesadas y determinan cualquier error, las estaciones de observación tienen como nombre Hawaii, Colorado Springs, Ascensión, Diego García y Kwajalein.        
+            p.mb-0 El segmento de control consiste en una estación de control maestro, cinco estaciones de observación y cuatro antenas de tierra distribuidas en cinco puntos muy cercanos al Ecuador terrestre. Estos cumplen con la función de reconocer la ubicación de cada satélite, sus señales son leídas en las estaciones y enviadas al centro de control, donde son procesadas y determinan cualquier error, las estaciones de observación tienen como nombre #[em Hawaii, Colorado Springs], Ascensión, Diego García y #[em Kwajalein].        
           .col-lg-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img07.svg")
-        .row.justify-content-center(titulo="Receptor GPS")
+        .row.justify-content-center(titulo="Receptor <em>GPS</em>")
           .col-lg-6.order-lg-1.order-2
-            p.mb-0 Finalmente, el segmento usuarios comprende a cualquier persona que cuente con un receptor de señales GPS.        
+            p.mb-0 Finalmente, el segmento usuarios comprende a cualquier persona que cuente con un receptor de señales #[em GPS].        
           .col-lg-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img08.svg")
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.cajon.color-acento-contenido.p-4
-        p.mb-0 Para ampliar esta información, revisar el material complementario, en el cual encontrará más información sobre los GPS.
+        p.mb-0 Para ampliar esta información, revisar el material complementario, en el cual encontrará más información sobre los #[em GPS].
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -74,13 +74,13 @@
             .col-lg-5.col-10.mb-lg-0.mb-4
               img(src="@/assets/curso/tema2/img09.svg")
             .col-lg-5
-              p.mb-0 Los sistemas que son capaces de almacenar, capturar, modelar, generar y analizar datos espaciales en dispositivos como computadores, celulares o GPS son denominados sistemas de información geográfica (SIG). Estos sistemas permiten abordar problemas de planificación y gestión desde la información geográfica representando en territorio, a partir de modelos de datos, ya sean tipo ráster (fotografía digital, imágenes de satélites o mapas escaneados) o tipo vectorial que representan la realidad por medio de figuras geométricas como puntos, líneas o polígonos.
+              p.mb-0 Los sistemas que son capaces de almacenar, capturar, modelar, generar y analizar datos espaciales en dispositivos como computadores, celulares o #[em GPS] son denominados sistemas de información geográfica (SIG). Estos sistemas permiten abordar problemas de planificación y gestión desde la información geográfica representando en territorio, a partir de modelos de datos, ya sean tipo ráster (fotografía digital, imágenes de satélites o mapas escaneados) o tipo vectorial que representan la realidad por medio de figuras geométricas como puntos, líneas o polígonos.
         .BGIMG07.p-md-4.p-3(titulo="Generación de mapas")
           .row.justify-content-center.align-items-center
             .col-lg-5.col-10.mb-lg-0.mb-4
               img(src="@/assets/curso/tema2/img10.svg")
             .col-lg-5
-              p.mb-0 Los sistemas de información geográfica generan mapas, para estos, se requieren datos como insumo inicial para generar información que proviene de sensores remotos, fotografías aéreas o GPS; se requieren programas SIG instalados que permitan interpretar la información a quien la manipule. Como resultado se tendrá el insumo para caracterizar un espacio determinado, en caso del recurso suelo facilitará el entendimiento e interpretación de procesos y factores formadores, así como de los riesgos naturales y antrópicos asociados a él.
+              p.mb-0 Los sistemas de información geográfica generan mapas, para estos, se requieren datos como insumo inicial para generar información que proviene de sensores remotos, fotografías aéreas o #[em GPS]; se requieren programas SIG instalados que permitan interpretar la información a quien la manipule. Como resultado se tendrá el insumo para caracterizar un espacio determinado, en caso del recurso suelo facilitará el entendimiento e interpretación de procesos y factores formadores, así como de los riesgos naturales y antrópicos asociados a él.
 
 </template>
 

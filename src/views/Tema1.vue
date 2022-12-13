@@ -44,8 +44,8 @@
 
     .row.justify-content-center.mb-5
       .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
-        .h5 Algunas características relevantes para tener en cuenta sobre la importancia del suelo son:
-        p Características del suelo.
+        .h5.mb-5 Algunas características relevantes para tener en cuenta sobre la importancia del suelo son:
+        p.mb-0 Características del suelo.
         p.mb-0 Servicios ecosistémicos que el suelo aporta.
       .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img06.svg")
@@ -119,7 +119,7 @@
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         .bloque-texto-c.BG03.p-4
           i.fas.fa-quote-right(style="color: #148D80; font-size: 2em")
-          h4.mb-2 Para nombrar los tipos de suelo se hace necesaria la utilización de horizontes
+          h4.mb-2 Para nombrar los tipos de suelo se hace necesaria la utilización de horizontes.
           span - Bustos G, DG. 2021
       .col-lg-6(data-aos="fade-left")
         .BG04.p-4
@@ -296,7 +296,7 @@
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 1Características y parámetros físicos
+      h2 1.2 Características y parámetros físicos
     
     p Las fases del suelo son fase sólida, fase líquida o la cantidad de agua que se encuentra en el suelo y la fase gaseosa que se refiere a la atmósfera que se encuentra en el suelo, como se aprecia a continuación, cada una de ella tiene unas características a saber.
 
@@ -338,7 +338,7 @@
           .col-lg-7.mb-lg-0.mb-4
             h4 Textura
             .BG04.p-4.mb-4
-              p.text-white.mb-0Cantidad de limos, arcillas o arenas presentes en el suelo, teniendo en cuenta el tamaño de las partículas. Por factores físicos de textura: se encuentran suelos francos, arenosos, limosos y arcillosos.
+              p.text-white.mb-0 Cantidad de limos, arcillas o arenas presentes en el suelo, teniendo en cuenta el tamaño de las partículas. Por factores físicos de textura: se encuentran suelos francos, arenosos, limosos y arcillosos.
             ul.lista-ul--color
               li(style="margin-bottom:2px")
                 i.fas.fa-circle(style="color: #169788; font-size: x-small;")
@@ -408,7 +408,7 @@
         .row.justify-content-center.BGR06.p-4(titulo="Capacidad de intercambio catiónico")
           .col-lg-7.mb-lg-0.mb-4
             h4 Capacidad de intercambio catiónico
-            p Es la capacidad que tiene el suelo para retener iones que le servirán de nutrientes a las plantas
+            p Es la capacidad que tiene el suelo para retener iones que le servirán de nutrientes a las plantas.
           .col-lg-5
             img(src='@/assets/curso/tema1/img31.svg')
         .row.justify-content-center.BGR06.p-4(titulo="pH")
@@ -442,8 +442,8 @@
             .col-lg-2.col-3(data-aos="fade-right")
               img(src='@/assets/curso/tema1/img34.svg')
             .col-9.mb-lg-0.mb-4(data-aos="fade-left")
-              h4 Macrofauna, mesofauna y microfauna
-              p.mb-0 Aumentan la porosidad, aireación, permeabilidad y calidad del suelo, por la mezcla de materiales en el mismo. Gracias a la acción de la macro fauna, especialmente la de las lombrices de tierra, quienes ingieren grandes cantidades de materia orgánica a diario, para posteriormente excretar una mezcla de esta con minerales que aportan humedad y un pH neutro al suelo.
+              h4.text-start Macrofauna, mesofauna y microfauna
+              p.text-start .mb-0 Aumentan la porosidad, aireación, permeabilidad y calidad del suelo, por la mezcla de materiales en el mismo. Gracias a la acción de la macro fauna, especialmente la de las lombrices de tierra, quienes ingieren grandes cantidades de materia orgánica a diario, para posteriormente excretar una mezcla de esta con minerales que aportan humedad y un pH neutro al suelo.
           .row.justify-content-center
             .col-9.mb-lg-0.mb-4(data-aos="fade-right")
               h4 Mejoran la estructura del suelo
@@ -454,8 +454,8 @@
             .col-lg-2.col-3(data-aos="fade-right")
               img(src='@/assets/curso/tema1/img36.svg')
             .col-9.mb-lg-0.mb-4(data-aos="fade-left")
-              h4 Reciclado de energía y masa
-              p.mb-0 Intervienen en el reciclado de energía y masa, gracias a la descomposición de la materia orgánica y en el reciclaje de nutrientes para las plantas, por medio de su participación en los ciclos biogeoquímicos.
+              h4.text-start  Reciclado de energía y masa
+              p.text-start .mb-0 Intervienen en el reciclado de energía y masa, gracias a la descomposición de la materia orgánica y en el reciclaje de nutrientes para las plantas, por medio de su participación en los ciclos biogeoquímicos.
           .row.justify-content-center
             .col-9.mb-lg-0.mb-4(data-aos="fade-right")
               h4 Controlan enfermedades
@@ -466,8 +466,8 @@
             .col-lg-2.col-3(data-aos="fade-right")
               img(src='@/assets/curso/tema1/img38.svg')
             .col-9.mb-lg-0.mb-4(data-aos="fade-left")
-              h4 Síntesis de enzimas
-              p.mb-0 Síntesis de enzimas y sustancias orgánicas que permiten a las plantas asimilar el óxido de hierro.
+              h4.text-start Síntesis de enzimas
+              p.text-start.mb-0 Síntesis de enzimas y sustancias orgánicas que permiten a las plantas asimilar el óxido de hierro.
           .row.justify-content-center
             .col-9.mb-lg-0.mb-4(data-aos="fade-right")
               h4 Fijación biológica de nitrógeno
@@ -478,8 +478,8 @@
             .col-lg-2.col-3(data-aos="fade-right")
               img(src='@/assets/curso/tema1/img40.svg')
             .col-9.mb-lg-0.mb-4(data-aos="fade-left")
-              h4 Absorción de nutrientes y agua
-              p.mb-0 La absorción de nutrientes y agua, se da gracias a las sustancias producidas por los hongos que movilizan nutrientes y favorecen la nutrición, absorción de agua y fósforo por las raíces.
+              h4.text-start Absorción de nutrientes y agua
+              p.text-start.mb-0 La absorción de nutrientes y agua, se da gracias a las sustancias producidas por los hongos que movilizan nutrientes y favorecen la nutrición, absorción de agua y fósforo por las raíces.
           .row.justify-content-center
             .col-9.mb-lg-0.mb-4(data-aos="fade-right")
               h4 Descomponen sustancias de origen industrial

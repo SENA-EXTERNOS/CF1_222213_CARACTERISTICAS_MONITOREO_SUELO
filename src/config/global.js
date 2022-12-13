@@ -184,7 +184,7 @@ export default {
   complementario: [
     {
       tema: 'Características del suelo',
-      referencia: 'FAO. (sf).  6. Textura del suelo.',
+      referencia: 'FAO. <em>(sf).  6. Textura del suelo</em>.',
       tipo: 'Guía práctica',
       link:
         'https://www.fao.org/fishery/docs/CDrom/FAO_Training/FAO_Training/General/x6706s/x6706s06.htm',
@@ -192,14 +192,14 @@ export default {
     {
       tema: 'Técnicas de muestreo y manejo de registros',
       referencia:
-        'Mendoza, RB & Espinoza A. (2017). Guía técnica para el muestreo de suelos. Universidad Nacional Agraria y Catholic Relief Services (CRS)',
+        'Mendoza, RB & Espinoza A. (2017). Guía técnica para el muestreo de suelos. <em>Universidad Nacional Agraria y Catholic Relief Services (CRS)</em>',
       tipo: 'Guía',
       link: 'https://repositorio.una.edu.ni/3613/1/P33M539.pdf',
     },
     {
       tema: 'Concepto de agrimensura',
       referencia:
-        'Titiosky, VS & Monzón W, A. (2018). La agrimensura en la antigüedad. Extensionismo, innovación y transferencia tecnológica - claves para el desarrollo, vol. 4, pp: 265-267.',
+        'Titiosky, VS & Monzón W, A. (2018). La agrimensura en la antigüedad. <em>Extensionismo, innovación y transferencia tecnológica - claves para el desarrollo</em>, vol. 4, pp: 265-267.',
       tipo: 'Artículo',
       link:
         'https://repositorio.unne.edu.ar/xmlui/bitstream/handle/123456789/48174/RIUNNE_FACENA_AR_Titiosky-Monzon.pdf?sequence=1',
@@ -274,7 +274,7 @@ export default {
     },
     {
       referencia:
-        'Gómez   R, DC. (2019). Diagnóstico en terrenos inclinados para el desarrollo de distritos de riego, caso de estudio: veredas de la zona norte del municipio de Paipa. [Proyecto social, Universidad Católica de Colombia].',
+        'Gómez   R, DC. (2019). <em>Diagnóstico en terrenos inclinados para el desarrollo de distritos de riego, caso de estudio: veredas de la zona norte del municipio de Paipa</em>. [Proyecto social, Universidad Católica de Colombia].',
       link:
         'https://repository.ucatolica.edu.co/bitstream/10983/24233/1/Proyecto%20de%20Grado.pdf',
     },
@@ -291,7 +291,7 @@ export default {
     },
     {
       referencia:
-        'Porta  , J. López-Acevedo, M. & Poch, R. (2019). Edafología, uso y protección de suelos. Mundi-prensa.',
+        'Porta  , J. López-Acevedo, M. & Poch, R. (2019). <em>Edafología, uso y protección de suelos</em>. Mundi-prensa.',
       link:
         'https://books.google.com.co/books?hl=es&lr=&id=SZ3BDwAAQBAJ&oi=fnd&pg=PA5&dq=suelos+&ots=3KLKznmnbk&sig=uYIfClhXunljgme7AH-uGYzmvQo&redir_esc=y#v=onepage&q&f=true',
     },
