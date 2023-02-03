@@ -7,33 +7,20 @@
         span 3
       h1 Manejo y técnicas de muestreo
     
-    p A continuación, se encuentra ampliada la información sobre el manejo y técnicas muestreo de suelos.
+    p A continuación, lo invitamos a ver el siguiente video, donde podrá estudiar la información sobre el manejo y técnicas de muestreo de suelos:
 
     figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .BGIMG03.px-md-5.px-4(data-aos="flip-up")
-      .row.justify-content-center.align-items-center.mb-4
-        .col-lg-8.BGR11.p-4
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/tema3/img01.png")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.text-white.mb-0 Para ampliar esta información, puede consultar el material complementario.
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+
                   
       separador
       #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.1 Equipos y herramientas
 
-      p Acorde al video anterior, el muestreo de suelos para la fertilización agrícola es fundamental para la producción, para estos se utilizan unas herramientas descritas a continuación.
-      .h5.mb-5 Algunos de estos equipos y herramientas, necesarios a la hora de realizar muestreo de suelos se encuentran listados a continuación.
+      p El muestreo de suelos para la fertilización agrícola, es fundamental para la producción y, para hacerlo, se utilizan diferentes tipos de herramientas.
+      p.mb-5 Algunos de estos equipos y herramientas, necesarios a la hora de realizar muestreo de suelos, se encuentran listados a continuación:
       
       .row.justify-content-between.mb-4
         .col-lg-6(data-aos="fade-right")
@@ -81,14 +68,14 @@
               i.fas.fa-leaf(style="color:#85BF50")
               | Rótulos.
         .col-lg-5.col-8(data-aos="fade-left")
-          img(src="@/assets/curso/tema3/img02.svg")
+          img(src="@/assets/curso/tema3/img02-.svg")
 
       separador
       #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.2 Elementos de seguridad y salud en el trabajo
       
       p Es importante considerar que las actividades en campo para la recolección de muestras, requieren elementos de protección para evitar posibles accidentes y afectaciones a la salud durante las labores.
-      .h5.mb-5 Para el desarrollo de la actividad de muestreo, es recomendable utilizar elementos de protección de seguridad y salud en el trabajo, básicos como: gafas, guantes, botas y la vestimenta adecuada para la manipulación de las muestras, todo ello porque estas pueden encontrarse contaminadas. 
+      p.mb-5 Para el desarrollo de la actividad de muestreo, es recomendable utilizar elementos básicos de protección de seguridad y salud en el trabajo, como: gafas, guantes, botas y la vestimenta adecuada para la manipulación de las muestras; todo esto, porque pueden encontrarse contaminadas y, adicional, se deben tener también en cuenta, las siguientes generalidades:
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -142,15 +129,15 @@
           img(src='@/assets/curso/tema3/img09.svg')
         .col-lg-7
           p También el uso y manejo de la parcela, el manejo de cultivo y además se llena la tabla que contiene información de la muestra, como el horizonte de la cual fue extraída, la profundidad, la textura que tiene la muestra, el color y, se asigna un código, la información contenida en el registro va depender del método elegido para el estudio.
-          p Para el etiquetado de la muestra, se debe consignar el código de la muestra, el nombre del propietario y el nombre de la finca, el uso del suelo del cual se tomó la muestra, la fecha de muestreo, la profundidad a la que se realizó el mismo y la ubicación de la parcela en el paisaje. 
-          p.mb-0 Para la obtención de dichos formatos, favor consultar el material complementario.
+          p.mb-0 Para el etiquetado de la muestra, se debe consignar el código de la muestra, el nombre del propietario y el nombre de la finca, el uso del suelo del cual se tomó la muestra, la fecha de muestreo, la profundidad a la que se realizó el mismo y la ubicación de la parcela en el paisaje. 
+        
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.order-lg-1.order-2
         .cajon-b.color-primario.p-3.mb-4(data-aos="fade-right")
           p.mb-0 Aprendiz, para concluir este componente formativo, recuerde que manejar suelo según procedimientos técnicos y tipo de cultivo es muy importante para la conservación de la biodiversidad y los ecosistemas, identificando este recurso de acuerdo con procesos, factores formadores, riesgos naturales y antrópicos, según criterios técnicos y normativos; se han desarrollado las características y monitoreo del suelo como parte de un cuerpo natural determinante para los procesos bióticos, abióticos y para la prestación de los servicios ecosistémicos, en los cuales, los ciclos biogeoquímicos hacen parte del equilibrio y los procesos físicos, químicos, y abióticos que se dan en el planeta.
         .cajon-b.color-acento-botones.img-end.p-3(data-aos="fade-right")
-          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo, para ello, diríjase al menú principal, allí encontrará la síntesis, la actividad didáctica, el material complementario, entre otros recursos. 
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, allí encontrará la síntesis, la actividad didáctica, el material complementario, entre otros recursos.  
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img10.jpg')
 

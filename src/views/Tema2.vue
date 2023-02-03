@@ -28,10 +28,10 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 Generalidades del sistema de posicionamiento global (#[em GPS] por sus siglas en inglés)
+      h2 2.2 Generalidades del sistema de posicionamiento global 
     
     p La herramienta usada para medir un terreno es un sistema de posicionamiento global (#[em GPS] por sus siglas en inglés), desarrollado para ser más exacto y preciso, ya que sus datos se pueden descargar y por medio de un #[em software] que se conecta con las mediciones al un satélite, arrojando datos exactos con coordenadas y áreas puntuales medidas.
-    .h5.mb-5 El #[em GPS] o sistema de posicionamiento global, está basado en satélites artificiales dispuestos en una constelación que brindan una posición precisa al usuario y responden a una de las preguntas más antiguas que se ha hecho el ser humano, ¿en qué lugar de la tierra me encuentro?
+    p.mb-5 El #[em GPS] o sistema de posicionamiento global, está basado en satélites artificiales dispuestos en una constelación, los cuales brindan una posición precisa al usuario y responden a una de las preguntas más antiguas que se ha cuestionado el ser humano: ¿en qué lugar de la Tierra me encuentro? Conozcamos sus generalidades:
     
     .row.justify-content-center.mb-4(data-aos="zoom-out")
       AcordionA.mb-5(tipo="a" clase-tarjeta="BGR10")
@@ -65,7 +65,7 @@
       h2 2.3 Sistema de información geográfica -SIG
     
     p En la actualidad son los sistemas de información geográfica - SIG, la herramienta usada para construir mapas, delimitar terrenos, explorar usos del suelo, entre otros.
-    .h5.mb-5 Un sistema de información geográfica (SIG) buscan recopilar, gestionar y analizar datos, es una rama de la geografía e integra muchos tipos de datos. Analiza la ubicación espacial y organiza capas de información en visualizaciones, utilizando mapas y escenas en 3D.
+    .h5.mb-5 Un Sistema de Información Geográfica (SIG), busca recopilar, gestionar y analizar datos; es una rama de la geografía que integra muchos tipos de datos. Analiza la ubicación espacial y organiza capas de información en visualizaciones, utilizando mapas y escenas en 3D:
 
     .row.justify-content-center.mb-4(data-aos="zoom-in")
       TabsC.color-primario

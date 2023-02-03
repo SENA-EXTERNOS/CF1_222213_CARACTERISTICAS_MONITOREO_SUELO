@@ -67,20 +67,14 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.5',
-            titulo: 'Factores biodegradantes del suelo',
+            titulo: 'Factores biodegradantes del suelo, riesgos y tratamientos',
             hash: 't_1_5',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.6',
-            titulo: 'Riesgos y tratamientos',
-            hash: 't_1_6',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
             titulo: 'Marco normativo',
-            hash: 't_1_7',
+            hash: 't_1_6',
           },
         ],
       },
@@ -101,14 +95,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo:
-              'Generalidades del sistema de posicionamiento global (GPS por sus siglas en inglés)',
+            titulo: 'Generalidades del sistema de posicionamiento global',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'SIG',
+            titulo: 'Sistema de Información Geográfica- SIG',
             hash: 't_2_3',
           },
         ],
@@ -183,31 +176,31 @@ export default {
   },
   complementario: [
     {
-      tema: 'Características del suelo',
-      referencia: 'FAO. <em>(sf).  6. Textura del suelo</em>.',
-      tipo: 'Guía práctica',
+      tema: 'El suelo',
+      referencia: 'FAO. (s.f).  6. T <em>Textura del suelo</em>.',
+      tipo: 'Guía práctica ',
       link:
         'https://www.fao.org/fishery/docs/CDrom/FAO_Training/FAO_Training/General/x6706s/x6706s06.htm',
     },
     {
-      tema: 'Técnicas de muestreo y manejo de registros',
+      tema: 'El suelo',
       referencia:
-        'Mendoza, RB & Espinoza A. (2017). Guía técnica para el muestreo de suelos. <em>Universidad Nacional Agraria y Catholic Relief Services (CRS)</em>',
+        'Mendoza, R. B. & Espinoza A. (2017). Guía técnica para el muestreo de suelos.<em> Universidad Nacional Agraria y Catholic Relief Services (CRS).</em>',
       tipo: 'Guía',
       link: 'https://repositorio.una.edu.ni/3613/1/P33M539.pdf',
     },
     {
-      tema: 'Concepto de agrimensura',
+      tema: 'Geomorfología',
       referencia:
-        'Titiosky, VS & Monzón W, A. (2018). La agrimensura en la antigüedad. <em>Extensionismo, innovación y transferencia tecnológica - claves para el desarrollo</em>, vol. 4, pp: 265-267.',
+        'Titiosky, V. S. & Monzón W. A. (2018). La agrimensura en la antigüedad.<em> Extensionismo, innovación y transferencia tecnológica - claves para el desarrollo</em>, 4, p. 265-267. ',
       tipo: 'Artículo',
       link:
         'https://repositorio.unne.edu.ar/xmlui/bitstream/handle/123456789/48174/RIUNNE_FACENA_AR_Titiosky-Monzon.pdf?sequence=1',
     },
     {
-      tema: 'Generalidades GPS',
+      tema: 'Geomorfología',
       referencia:
-        'Leica. (sf). Introducción al Sistema GPS (Sistema de Posicionamiento Global). GPS Basics -1.0.0es.',
+        'Leica. (s.f.). <em>Introducción al Sistema GPS (Sistema de Posicionamiento Global). GPS Basics -1.0.0es.</em>',
       tipo: 'Libro',
       link:
         'http://coello.ujaen.es/asignaturas/topometria/descargas/GPSBasics_es.pdf',
@@ -265,33 +258,34 @@ export default {
   referencias: [
     {
       referencia:
-        'Bustos G, DG. (2021). Manual teórico de geomorfología de suelos. Universidad autónoma de Baja California.',
+        'Bustos, D. G. (2021).<em> Manual teórico de geomorfología de suelos.</em> Universidad autónoma de Baja California.',
       link:
         'https://www.researchgate.net/publication/358020444_Manual_Teorico_de_Geomorfologia_de_Suelos/link/61eb888d5779d35951c58184/download',
     },
     {
-      referencia: 'Girón V, MM. (2019). Ecología. Universidad del Quindío.',
+      referencia:
+        'Girón, M. M. (2019).<em> Ecología. </em>Universidad del Quindío.',
     },
     {
       referencia:
-        'Gómez   R, DC. (2019). <em>Diagnóstico en terrenos inclinados para el desarrollo de distritos de riego, caso de estudio: veredas de la zona norte del municipio de Paipa</em>. [Proyecto social, Universidad Católica de Colombia].',
+        'Gómez, D. C. (2019). <em>Diagnóstico en terrenos inclinados para el desarrollo de distritos de riego, caso de estudio: veredas de la zona norte del municipio de Paipa.</em> [Proyecto social, Universidad Católica de Colombia]. ',
       link:
         'https://repository.ucatolica.edu.co/bitstream/10983/24233/1/Proyecto%20de%20Grado.pdf',
     },
     {
       referencia:
-        'Mendoza  , RB & Espinoza A. (2017). Guía técnica para el muestreo de suelos. Universidad Nacional Agraria y Catholic Relief Services (CRS)',
+        'Mendoza, R. B. & Espinoza, A. (2017). <i>Guía técnica para el muestreo de suelos. Universidad Nacional Agraria y Catholic Relief Services (CRS) </i>',
       link: 'https://repositorio.una.edu.ni/3613/1/P33M539.pdf',
     },
     {
       referencia:
-        'Ministerio del medio ambiente  . (2016). Política para la gestión sostenible del suelo. [Política pública, Gobierno de Colombia].',
+        'Ministerio del medio ambiente. (2016).<i> Política para la gestión sostenible del suelo. </i>[Política pública, Gobierno de Colombia]. ',
       link:
         'https://www.andi.com.co/Uploads/Pol%C3%ADtica_para_la_gesti%C3%B3n_sostenible_del_suelo_FINAL.pdf',
     },
     {
       referencia:
-        'Porta  , J. López-Acevedo, M. & Poch, R. (2019). <em>Edafología, uso y protección de suelos</em>. Mundi-prensa.',
+        'Porta, J., López-Acevedo, M. & Poch, R. (2019).<i> Edafología, uso y protección de suelos.</i> Mundi-prensa.',
       link:
         'https://books.google.com.co/books?hl=es&lr=&id=SZ3BDwAAQBAJ&oi=fnd&pg=PA5&dq=suelos+&ots=3KLKznmnbk&sig=uYIfClhXunljgme7AH-uGYzmvQo&redir_esc=y#v=onepage&q&f=true',
     },

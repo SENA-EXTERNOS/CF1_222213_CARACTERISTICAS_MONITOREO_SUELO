@@ -44,7 +44,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
-        .h5.mb-5 Algunas características relevantes para tener en cuenta sobre la importancia del suelo son:
+        p.mb-3 Algunas características relevantes para tener en cuenta sobre la importancia del suelo son:
         p.mb-0 Características del suelo.
         p.mb-0 Servicios ecosistémicos que el suelo aporta.
       .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
@@ -107,7 +107,7 @@
     
     .row.justify-content-center.mb-4
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-        .h5 Los suelos, además de esta clasificación, están relacionados con la posición y la formación de los mismos.
+        .h5 Los suelos, además de esta clasificación, están relacionados con la posición y la formación de los mismos; veamos: 
         p Relictos, que son todos aquellos suelos que están en procesos continuos de formación y en la posición más superficial, dejarán esta categoría cuando empiecen a descender y a hacer parte de horizontes diferentes al superficial.
         .BG02.p-4
           p.mb-0 Suelos sepultados, son los que se encuentran por debajo de sedimentos, dispuestos para formar más capas, estos suelos enterrados pueden frenar sus procesos de pedogénesis o continuarlo, pero de manera más lenta.
@@ -116,17 +116,13 @@
         img(src="@/assets/curso/tema1/img18.svg")
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        .bloque-texto-c.BG03.p-4
-          i.fas.fa-quote-right(style="color: #148D80; font-size: 2em")
-          h4.mb-2 Para nombrar los tipos de suelo se hace necesaria la utilización de horizontes.
-          span - Bustos G, DG. 2021
+
       .col-lg-6(data-aos="fade-left")
         .BG04.p-4
-          p.text-white.mb-0 los cuales se diferencian con letras mayúsculas y minúsculas, en los cuales, las mayúsculas diferencian los horizontes principales, las minúsculas se utilizan para nombrar características particulares de un horizonte, esta diferenciación de los materiales que componen el suelo en porciones ubicadas de manera horizontal puede nombrarse de manera general como O, A, E, B, C como se aprecia en la siguiente ilustración.
+          p.text-white.mb-0 Para nombrar los tipos de suelo, se hace necesaria la utilización de horizontes, los cuales se diferencian con letras mayúsculas y minúsculas, en los cuales, las mayúsculas diferencian los horizontes principales y las minúsculas se utilizan para nombrar características particulares de un horizonte. 
 
     .h4 Medidas de manejo de suelos
-    p Del suelo depende el desarrollo de la sociedad y las formas de establecer los sistemas productivos urbanos o rurales, como se verá a continuación.
+    p Esta diferenciación de los materiales que componen el suelo en porciones, ubicadas de manera horizontal, puede nombrarse de manera general O, A, E, B, C, como se aprecia en la ilustración que veremos a continuación:
 
     .row.justify-content-center.mb-4(data-aos="zoom-out")
       .col-lg-10
@@ -158,7 +154,7 @@
       .h4 Subdivisión de horizontes
       .row.justify-content-around.mb-4
         .col-lg-8.mb-lg-0.mb-4(data-aos="fade-right")
-          p Las letras minúsculas que acompañan a cada uno de los horizontes describen las siguientes características.
+          p Las letras minúsculas que acompañan a cada uno de los horizontes, describen las siguientes características:
           ol.lista-ol--cuadro.lista-ol--separador
             li 
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
@@ -213,10 +209,10 @@
 
       .row.justify-content-center.mb-5(data-aos="flip-up")
         .col-lg-7.cajon.color-primario.p-4
-          p.mb-0 Para conocer un poco más de estas subdivisiones, la siguiente infografía amplía el concepto.
+          p.mb-0 Para conocer un poco más de estas subdivisiones, la siguiente infografía amplía el concepto:
         
       .h4 Medidas de manejo de suelos
-      p.mb-5 Del suelo depende el desarrollo de la sociedad y las formas de establecer los sistemas productivos urbanos o rurales, como veremos a continuación.
+      p.mb-5 Para conocer un poco más de estas subdivisiones, la siguiente infografía nos amplía el concepto: 
       
       .row.justify-content-center.mb-4(data-aos="zoom-in")
         .col-lg-10
@@ -298,7 +294,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Características y parámetros físicos
     
-    p Las fases del suelo son fase sólida, fase líquida o la cantidad de agua que se encuentra en el suelo y la fase gaseosa que se refiere a la atmósfera que se encuentra en el suelo, como se aprecia a continuación, cada una de ella tiene unas características a saber.
+    p Las fases del suelo son: fase sólida, fase líquida o la cantidad de agua que se encuentra en el suelo, y la fase gaseosa que se refiere a la atmósfera que se encuentra en el suelo, como se aprecia a continuación; cada una de ellas está conformada por unas características, a saber:
 
     .row.justify-content-center.mb-4
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -319,10 +315,10 @@
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.cajon.color-acento-contenido.p-4
-        p.mb-0 El tamaño de las partículas minerales que forman el suelo determina sus propiedades y los elementos de la calidad incluyen propiedades físicas, químicas y biológicas como textura, estructura, porosidad y color. A continuación, se determinan las propiedades físicas de los tipos de suelos.
+        p.mb-0 El tamaño de las partículas minerales que conforman el suelo, determina sus propiedades y los elementos de la calidad, los cuales incluyen propiedades físicas, químicas y biológicas como textura, estructura, porosidad y color. 
     
     .h4 Propiedades físicas de los suelos
-    p Estas cualidades dependen principalmente del contenido de arenas, limos, arcillas, agua, disponibilidad de nutrientes y otras. Las las características que más se destacan son:
+    p Estas cualidades dependen principalmente del contenido de arenas, limos, arcillas, agua, disponibilidad de nutrientes y otras. Las características que más se destacan son: 
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       TabsA.color-acento-contenido
@@ -397,7 +393,7 @@
             p Es una medida que resulta de la división de la masa de la muestra y su volumen; determina principalmente la porosidad de un agregado.
           .col-lg-5
             img(src='@/assets/curso/tema1/img29.svg')
-        .row.justify-content-center.BGR06.p-4(titulo="Retención y movimiento de la humedad en el suelo")
+        .row.justify-content-center.BGR06.p-4(titulo="Retención y movimiento<br> de la humedad en el suelo")
           .col-lg-7.mb-lg-0.mb-4
             h4 Retención y movimiento de la humedad en el suelo
             p Está definida por la porosidad del suelo, los cuales retienen cierta cantidad de líquido, apoyados en las fuerzas de adhesión que son básicamente, la capacidad que tienen las moléculas orgánicas e inorgánicas de unirse con las partículas de agua y la fuerza de cohesión, que es aquella que permite que las moléculas de agua se mantengan unidas.
@@ -405,10 +401,11 @@
               p.text-white.mb-0 Estas fuerzas confieren al suelo tres estados, uno de saturación, en el cual todos los poros del suelo están llenos de agua y el flujo de esta llega a todos los horizontes; otro de capacidad de campo en que solo algunos se encuentran llenos de agua y el flujo de agua ya no es constante; otro llamado marchitez permanente cuando, los poros están vacíos y el agua que queda disponible está unida a la tierra por fuerzas de adherencia.
           .col-lg-5
             img(src='@/assets/curso/tema1/img30.svg')
-        .row.justify-content-center.BGR06.p-4(titulo="Capacidad de intercambio catiónico")
+        .row.justify-content-center.BGR06.p-4(titulo="Capacidad de intercambio <br>catiónico")
           .col-lg-7.mb-lg-0.mb-4
             h4 Capacidad de intercambio catiónico
-            p Es la capacidad que tiene el suelo para retener iones que le servirán de nutrientes a las plantas.
+            p Es la capacidad que tiene el suelo para retener iones, los cuales le van a servir de nutrientes a las plantas.
+
           .col-lg-5
             img(src='@/assets/curso/tema1/img31.svg')
         .row.justify-content-center.BGR06.p-4(titulo="pH")
@@ -533,7 +530,7 @@
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       TabsA.color-acento-contenido
-        .row.justify-content-center.BGR08.p-4(titulo="Factores biodegradantes del suelo")
+        .row.justify-content-center.BGR08.p-4(titulo="Factores biodegradantes <br>del suelo")
           .col-lg-7.mb-lg-0.mb-4
             h4 Factores biodegradantes del suelo
             p La desertificación es definida como la disminución irreversible de la productividad de un ecosistema, a causa de malas prácticas en zonas especialmente secas, lo cual se va representado en la pérdida de los servicios ecosistémicos provistos por el suelo y aumento de la aridez. Estas malas prácticas están relacionadas con la deforestación, la extensión de infraestructura agrícola, la ganadería, los cultivos intensivos, el riego y los factores climáticos.
