@@ -121,7 +121,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img08.svg')})`}"
       )(data-aos="fade-left")
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
-        p.mb-0 Los muestreos deben tener como respaldo su correspondiente registro, en él se consigna información general como el nombre del equipo que está realizando el muestreo, localización del terreno, el porcentaje de pendiente, el nombre de la finca y del productor que la trabaja, el nombre de la comunidad o vereda, datos sobre el relieve como la forma y posición, las precipitaciones, el tipo de vegetación presente, el tipo de muestreo que se utilizó, el número de submuestras que componen una muestra, la clasificación taxonómica, el uso del suelo, la fecha y muestreo.
+        p.mb-0 Los muestreos deben tener como respaldo su correspondiente registro, en él se consigna información general como el nombre del equipo que está realizando el muestreo, localización del terreno, el porcentaje de pendiente, el nombre de la finca y del productor que la trabaja, el nombre de la comunidad o vereda, datos sobre el relieve como la forma y posición, las precipitaciones, el tipo de vegetación presente, el tipo de muestreo que se utilizó, el número de submuestras que componen una muestra, la clasificación taxonómica, el uso del suelo, la fecha y muestreo. También el uso y manejo de la parcela, el manejo de cultivo y además se llena la tabla que contiene información de la muestra, como el horizonte de la cual fue extraída, la profundidad, la textura que tiene la muestra, el color y, se asigna un código, la información contenida en el registro va a depender del método elegido para el estudio. 
     
     .BGIMG06.p-4.mb-5(data-aos="flip-up")
       .row.justify-content-center
@@ -137,7 +137,7 @@
         .cajon-b.color-primario.p-3.mb-4(data-aos="fade-right")
           p.mb-0 Aprendiz, para concluir este componente formativo, recuerde que manejar suelo según procedimientos técnicos y tipo de cultivo es muy importante para la conservación de la biodiversidad y los ecosistemas, identificando este recurso de acuerdo con procesos, factores formadores, riesgos naturales y antrópicos, según criterios técnicos y normativos; se han desarrollado las características y monitoreo del suelo como parte de un cuerpo natural determinante para los procesos bióticos, abióticos y para la prestación de los servicios ecosistémicos, en los cuales, los ciclos biogeoquímicos hacen parte del equilibrio y los procesos físicos, químicos, y abióticos que se dan en el planeta.
         .cajon-b.color-acento-botones.img-end.p-3(data-aos="fade-right")
-          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, allí encontrará la síntesis, la actividad didáctica, el material complementario, entre otros recursos.  
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, allí encontrará la síntesis, la actividad didáctica, el material complementario, entre otros recursos. 
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img10.jpg')
 

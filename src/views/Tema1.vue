@@ -45,8 +45,6 @@
     .row.justify-content-center.mb-5
       .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
         p.mb-3 Algunas características relevantes para tener en cuenta sobre la importancia del suelo son:
-        p.mb-0 Características del suelo.
-        p.mb-0 Servicios ecosistémicos que el suelo aporta.
       .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img06.svg")
     

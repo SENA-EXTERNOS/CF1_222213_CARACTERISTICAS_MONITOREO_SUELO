@@ -258,7 +258,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Bustos, D. G. (2021).<em> Manual teórico de geomorfología de suelos.</em> Universidad autónoma de Baja California.',
+        'Bustos, D. G. (2021).<em> Manual teórico de geomorfología de suelos.</em> Universidad autónoma de Baja California. ',
       link:
         'https://www.researchgate.net/publication/358020444_Manual_Teorico_de_Geomorfologia_de_Suelos/link/61eb888d5779d35951c58184/download',
     },
