@@ -177,7 +177,7 @@ export default {
   complementario: [
     {
       tema: 'El suelo',
-      referencia: 'FAO. (s.f).  6. T <em>Textura del suelo</em>.',
+      referencia: 'FAO. (s.f).  6. <em>Textura del suelo</em>.',
       tipo: 'Guía práctica ',
       link:
         'https://www.fao.org/fishery/docs/CDrom/FAO_Training/FAO_Training/General/x6706s/x6706s06.htm',
