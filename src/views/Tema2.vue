@@ -92,7 +92,7 @@ export default {
       {
         titulo: 'Origen, evolución y conformación del suelo',
         texto:
-          'La topografía se refiere a la ciencia que tiene como objeto el estudio del origen, evolución y conformación del suelo a partir de tres variables denominadas estructura, procesos y tiempo, las interpretaciones hechas por esta se complementan con otras ciencias como pedología, petrología sedimentaria, geología, neo tectónica, arqueología y botánica son reflejadas en mapas temáticos para mostrar las formas que caracteriza una sección del suelo y las posibles amenazas a las que puede estar expuesta esta sección.',
+          'La topografía es la disciplina que estudia los principios y procedimientos que nos permiten ilustrar las formas, detalles y elementos de la Tierra, tanto los naturales como los creados por el ser humano',
         imagen: require('@/assets/curso/tema2/img02.svg'),
       },
       {

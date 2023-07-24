@@ -136,7 +136,7 @@
             p.mb-0 Es la capa que se encuentra debajo de O, en la cual, la materia orgánica comienza a mezclarse con los minerales que componen el suelo.
           .BGR05.p-3(x="82%" y="55%" numero="3")
             .h5.mb-2 Punto 3. E
-            p.mb-0 Este horizonte es más claro y grueso que los dos anteriores y, en él ya no se encuentra materia orgánica y los minerales son escasos, por acción del agua que se filtra se arrastrándolos.
+            p.mb-0 Este horizonte es más claro y grueso que los dos anteriores y, en él ya no se encuentra materia orgánica y los minerales son escasos, por acción del agua que se filtra arrastrándolos.
           .BGR05.p-3(x="82%" y="70%" numero="4")
             .h5.mb-2 Punto 4. B
             p.mb-0 Este horizonte no muestra similitudes con la roca parental.
@@ -438,7 +438,7 @@
               img(src='@/assets/curso/tema1/img34.svg')
             .col-9.mb-lg-0.mb-4(data-aos="fade-left")
               h4.text-start Macrofauna, mesofauna y microfauna
-              p.text-start .mb-0 Aumentan la porosidad, aireación, permeabilidad y calidad del suelo, por la mezcla de materiales en el mismo. Gracias a la acción de la macro fauna, especialmente la de las lombrices de tierra, quienes ingieren grandes cantidades de materia orgánica a diario, para posteriormente excretar una mezcla de esta con minerales que aportan humedad y un pH neutro al suelo.
+              p.text-start.mb-0 Aumentan la porosidad, aireación, permeabilidad y calidad del suelo, por la mezcla de materiales en el mismo. Gracias a la acción de la macro fauna, especialmente la de las lombrices de tierra, quienes ingieren grandes cantidades de materia orgánica a diario, para posteriormente excretar una mezcla de esta con minerales que aportan humedad y un pH neutro al suelo.
           .row.justify-content-center
             .col-9.mb-lg-0.mb-4(data-aos="fade-right")
               h4 Mejoran la estructura del suelo
@@ -450,7 +450,7 @@
               img(src='@/assets/curso/tema1/img36.svg')
             .col-9.mb-lg-0.mb-4(data-aos="fade-left")
               h4.text-start  Reciclado de energía y masa
-              p.text-start .mb-0 Intervienen en el reciclado de energía y masa, gracias a la descomposición de la materia orgánica y en el reciclaje de nutrientes para las plantas, por medio de su participación en los ciclos biogeoquímicos.
+              p.text-start.mb-0 Intervienen en el reciclado de energía y masa, gracias a la descomposición de la materia orgánica y en el reciclaje de nutrientes para las plantas, por medio de su participación en los ciclos biogeoquímicos.
           .row.justify-content-center
             .col-9.mb-lg-0.mb-4(data-aos="fade-right")
               h4 Controlan enfermedades
