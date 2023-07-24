@@ -136,7 +136,7 @@
             p.mb-0 Es la capa que se encuentra debajo de O, en la cual, la materia orgánica comienza a mezclarse con los minerales que componen el suelo.
           .BGR05.p-3(x="82%" y="55%" numero="3")
             .h5.mb-2 Punto 3. E
-            p.mb-0 Este horizonte es más claro y grueso que los dos anteriores y, en él ya no se encuentra materia orgánica y los minerales son escasos, por acción del agua que se filtra arrastrándolos.
+            p.mb-0 Este horizonte es más claro y grueso que los dos anteriores, en él ya no se encuentra materia orgánica y los minerales son escasos, por acción del agua que se filtra arrastrándolos.
           .BGR05.p-3(x="82%" y="70%" numero="4")
             .h5.mb-2 Punto 4. B
             p.mb-0 Este horizonte no muestra similitudes con la roca parental.
