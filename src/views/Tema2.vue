@@ -7,7 +7,7 @@
         span 2
       h1 Geomorfología
     
-    p Cuando se habla de geomorfología del suelo, se habla de procesos de conformación, que ocurren desde la formación del planeta tierra, pasando por las eras geológicas hasta como se conoce hoy.
+    p Cuando se habla de geomorfología del suelo, se habla de procesos de conformación, que ocurren desde la formación del planeta Tierra, pasando por las eras geológicas hasta como se conoce hoy.
 
     .BGIMG05.p-4.mb-4(data-aos="flip-up")
       .row.justify-content-around.align-items-center
@@ -92,7 +92,7 @@ export default {
       {
         titulo: 'Origen, evolución y conformación del suelo',
         texto:
-          'La topografía es la disciplina que estudia los principios y procedimientos que nos permiten ilustrar las formas, detalles y elementos de la Tierra, tanto los naturales como los creados por el ser humano',
+          'La topografía es la disciplina que estudia los principios y procedimientos que nos permiten ilustrar las formas, detalles y elementos de la Tierra, tanto los naturales como los creados por el ser humano.',
         imagen: require('@/assets/curso/tema2/img02.svg'),
       },
       {
