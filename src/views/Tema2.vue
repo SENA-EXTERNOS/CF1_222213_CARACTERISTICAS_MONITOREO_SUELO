@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Geomorfología
-    
+
     p Cuando se habla de geomorfología del suelo, se habla de procesos de conformación, que ocurren desde la formación del planeta Tierra, pasando por las eras geológicas hasta como se conoce hoy.
 
     .BGIMG05.p-4.mb-4(data-aos="flip-up")
@@ -15,11 +15,11 @@
           p.mb-0 Se refiere a la ciencia que tiene como objeto el estudio del origen, evolución y conformación del suelo a partir de tres variables denominadas estructura, procesos y tiempo. Las interpretaciones hechas por esta se complementan con otras ciencias como pedología, petrología sedimentaria, geología, neo tectónica, arqueología y botánica, son reflejadas en mapas temáticos para mostrar las formas que caracteriza una sección del suelo y las posibles amenazas a las que puede estar expuesta esta sección.
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
           img(src="@/assets/curso/tema2/img01.svg")
-    
+
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 Elementos topográficos y agrimensura
-    
+
     p La agrimensura es denominada como el “arte de medir”, se practica desde la edad de bronce valiéndose de ciencias, técnicas y criterios para ubicar, delimitar y estudiar una extensión de un territorio.
     .h5.mb-5 Para el estudio de suelos la topografía y la agrimensura se encargan de medir, procesar, difundir información acerca de la tierra, valiéndose de mediciones lineales, ángulos y desniveles, para confeccionar un gráfico que demuestre un terreno.
 
@@ -28,31 +28,31 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 Generalidades del sistema de posicionamiento global 
-    
-    p La herramienta usada para medir un terreno es un sistema de posicionamiento global (#[em GPS] por sus siglas en inglés), desarrollado para ser más exacto y preciso, ya que sus datos se pueden descargar y por medio de un #[em software] que se conecta con las mediciones al un satélite, arrojando datos exactos con coordenadas y áreas puntuales medidas.
+      h2 2.2 Generalidades del sistema de posicionamiento global
+
+    p La herramienta usada para medir un terreno es un sistema de posicionamiento global (#[em GPS] por sus siglas en inglés), desarrollado para ser más exacto y preciso, ya que sus datos se pueden descargar y por medio de un #[em software] que se conecta con las mediciones al satélite, arrojando datos exactos con coordenadas y áreas puntuales medidas.
     p.mb-5 El #[em GPS] o sistema de posicionamiento global, está basado en satélites artificiales dispuestos en una constelación, los cuales brindan una posición precisa al usuario y responden a una de las preguntas más antiguas que se ha cuestionado el ser humano: ¿en qué lugar de la Tierra me encuentro? Conozcamos sus generalidades:
-    
+
     .row.justify-content-center.mb-4(data-aos="zoom-out")
       AcordionA.mb-5(tipo="a" clase-tarjeta="BGR10")
         .row.justify-content-center(titulo="Posicionamiento global")
           .col-lg-6.order-lg-1.order-2
-            p.mb-0 Se diseñó originalmente con fines militares para la obtención de posicionamiento, pero no fue mucho el tiempo transcurrido hasta que se enteraron que tenía otras aplicaciones no solo en lo militar, estas aplicaciones estaban sustentadas en la navegación y en la topografía, pues la información precisa del punto en el cual un usuario se ubica, también es valiosa en estas disciplinas.        
+            p.mb-0 Se diseñó originalmente con fines militares para la obtención de posicionamiento, pero no fue mucho el tiempo transcurrido hasta que se enteraron que tenía otras aplicaciones no solo en lo militar, estas aplicaciones estaban sustentadas en la navegación y en la topografía, pues la información precisa del punto en el cual un usuario se ubica, también es valiosa en estas disciplinas.
           .col-lg-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img05.svg")
         .row.justify-content-center(titulo="Satélite")
           .col-lg-6.order-lg-1.order-2
-            p.mb-0 Este sistema funciona gracias a tres segmentos diferentes, espacial, de control y de usuarios. El segmento espacial, consiste en aproximadamente 24 satélites que giran alrededor de la tierra durante las 24 horas del día, estos satélites llevan en su interior relojes atómicos muy precisos que generan las señales transmitidas por satélite.        
+            p.mb-0 Este sistema funciona gracias a tres segmentos diferentes, espacial, de control y de usuarios. El segmento espacial, consiste en aproximadamente 24 satélites que giran alrededor de la tierra durante las 24 horas del día, estos satélites llevan en su interior relojes atómicos muy precisos que generan las señales transmitidas por satélite.
           .col-lg-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img06.svg")
         .row.justify-content-center(titulo="Estación de observación")
           .col-lg-6.order-lg-1.order-2
-            p.mb-0 El segmento de control consiste en una estación de control maestro, cinco estaciones de observación y cuatro antenas de tierra distribuidas en cinco puntos muy cercanos al Ecuador terrestre. Estos cumplen con la función de reconocer la ubicación de cada satélite, sus señales son leídas en las estaciones y enviadas al centro de control, donde son procesadas y determinan cualquier error, las estaciones de observación tienen como nombre #[em Hawaii, Colorado Springs], Ascensión, Diego García y #[em Kwajalein].        
+            p.mb-0 El segmento de control consiste en una estación de control maestro, cinco estaciones de observación y cuatro antenas de tierra distribuidas en cinco puntos muy cercanos al Ecuador terrestre. Estos cumplen con la función de reconocer la ubicación de cada satélite, sus señales son leídas en las estaciones y enviadas al centro de control, donde son procesadas y determinan cualquier error, las estaciones de observación tienen como nombre #[em Hawaii, Colorado Springs], Ascensión, Diego García y #[em Kwajalein].
           .col-lg-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img07.svg")
         .row.justify-content-center(titulo="Receptor <em>GPS</em>")
           .col-lg-6.order-lg-1.order-2
-            p.mb-0 Finalmente, el segmento usuarios comprende a cualquier persona que cuente con un receptor de señales #[em GPS].        
+            p.mb-0 Finalmente, el segmento usuarios comprende a cualquier persona que cuente con un receptor de señales #[em GPS].
           .col-lg-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img08.svg")
 
@@ -63,7 +63,7 @@
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Sistema de información geográfica -SIG
-    
+
     p En la actualidad son los sistemas de información geográfica - SIG, la herramienta usada para construir mapas, delimitar terrenos, explorar usos del suelo, entre otros.
     .h5.mb-5 Un Sistema de Información Geográfica (SIG), busca recopilar, gestionar y analizar datos; es una rama de la geografía que integra muchos tipos de datos. Analiza la ubicación espacial y organiza capas de información en visualizaciones, utilizando mapas y escenas en 3D:
 

@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 El suelo
-    
+
     p Cuerpo natural constituido principalmente por minerales, agua, aire, materia orgánica, que desempeñan constantemente procesos bióticos o abióticos cumpliendo funciones indispensables para los seres humanos en el planeta.
 
     .BGIMG02.p-4.mb-5(data-aos="zoom-in")
@@ -47,7 +47,7 @@
         p.mb-3 Algunas características relevantes para tener en cuenta sobre la importancia del suelo son:
       .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img06.svg")
-    
+
     .row.justify-content-center.mb-5(data-aos="zoom-out")
       SlyderF(columnas="col-lg-6 col-xl-4")
         .tarjeta-avatar
@@ -102,14 +102,14 @@
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Clasificación y nomenclatura
-    
+
     .row.justify-content-center.mb-4
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-        .h5 Los suelos, además de esta clasificación, están relacionados con la posición y la formación de los mismos; veamos: 
+        .h5 Los suelos, además de esta clasificación, están relacionados con la posición y la formación de los mismos; veamos:
         p Relictos, que son todos aquellos suelos que están en procesos continuos de formación y en la posición más superficial, dejarán esta categoría cuando empiecen a descender y a hacer parte de horizontes diferentes al superficial.
         .BG02.p-4
           p.mb-0 Suelos sepultados, son los que se encuentran por debajo de sedimentos, dispuestos para formar más capas, estos suelos enterrados pueden frenar sus procesos de pedogénesis o continuarlo, pero de manera más lenta.
-        p Suelos exhumados son aquellos que se han visto expuestos nuevamente a las condiciones ambientales, obligándolos a iniciar procesos de pedogénesis, esta puede ocurrir por una degradación extrema de rocas que desaparezca materiales sepultados ubicados sobre este.  
+        p Suelos exhumados son aquellos que se han visto expuestos nuevamente a las condiciones ambientales, obligándolos a iniciar procesos de pedogénesis, esta puede ocurrir por una degradación extrema de rocas que desaparezca materiales sepultados ubicados sobre este.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img18.svg")
 
@@ -117,7 +117,7 @@
 
       .col-lg-6(data-aos="fade-left")
         .BG04.p-4
-          p.text-white.mb-0 Para nombrar los tipos de suelo, se hace necesaria la utilización de horizontes, los cuales se diferencian con letras mayúsculas y minúsculas, en los cuales, las mayúsculas diferencian los horizontes principales y las minúsculas se utilizan para nombrar características particulares de un horizonte. 
+          p.text-white.mb-0 Para nombrar los tipos de suelo, se hace necesaria la utilización de horizontes, los cuales se diferencian con letras mayúsculas y minúsculas, en los cuales, las mayúsculas diferencian los horizontes principales y las minúsculas se utilizan para nombrar características particulares de un horizonte.
 
     .h4 Medidas de manejo de suelos
     p Esta diferenciación de los materiales que componen el suelo en porciones, ubicadas de manera horizontal, puede nombrarse de manera general O, A, E, B, C, como se aprecia en la ilustración que veremos a continuación:
@@ -147,58 +147,58 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.cajon.color-acento-contenido.p-4
         p.mb-0 Cada uno de estos horizontes vistos anteriormente, tienen una subdivisión para su clasificación. Cada horizonte se subdivide a su vez en:
-    
+
     .BGIMG03.px-md-5.px-4
       .h4 Subdivisión de horizontes
       .row.justify-content-around.mb-4
         .col-lg-8.mb-lg-0.mb-4(data-aos="fade-right")
           p Las letras minúsculas que acompañan a cada uno de los horizontes, describen las siguientes características:
           ol.lista-ol--cuadro.lista-ol--separador
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span b
               | Se utiliza para señalar horizontes que han sido sepultados o para dejar en evidencia la ocurrencia de algún evento geológico.
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span c
               | Indica la formación de nódulos de hierro, aluminio, manganeso y titanio.
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span f
               | Horizontes que cuentan con cimentación de capas de hielo.
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span g
               | Horizontes que se ven alterados por condiciones de glaciación.
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span j
               | Señala un desarrollo mínimo de suelo en un horizonte.
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span k
               | Horizontes que son ricos en calcio.
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span m
               | Generalmente se encuentra acompañada de otros y sirve para indicar que un horizonte se encuentra cimentado.
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span n
               | Horizontes con concentraciones de sodio iguales o mayores al 6 %.
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span ss
               | Se debe usar doble letra, para denotar los horizontes que presentan aberturas de todos los tamaños, producto de las presiones a las que es sometido el suelo.
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span v
               | Horizontes porosos o vesiculares.
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span y
               | Horizontes que poseen grandes cantidades de yeso.
-            li 
+            li
               .lista-ol--cuadro__vineta(style="background-color: #13887B")
                 span z
               | Horizontes ricos en sales, mucho más solubles que el yeso como la silvita (Bustos, 2021).
@@ -208,10 +208,10 @@
       .row.justify-content-center.mb-5(data-aos="flip-up")
         .col-lg-7.cajon.color-primario.p-4
           p.mb-0 Para conocer un poco más de estas subdivisiones, la siguiente infografía amplía el concepto:
-        
+
       .h4 Medidas de manejo de suelos
-      p.mb-5 Para conocer un poco más de estas subdivisiones, la siguiente infografía nos amplía el concepto: 
-      
+      p.mb-5 Para conocer un poco más de estas subdivisiones, la siguiente infografía nos amplía el concepto:
+
       .row.justify-content-center.mb-4(data-aos="zoom-in")
         .col-lg-10
           ImagenInfografica.color-primario.mb-5
@@ -228,12 +228,12 @@
                   p.mb-0 #[b Oe]: materia a medio estado de descomposición.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b Oa]: rico en materia orgánica, 100 % humus.
+                  p.mb-0 #[b Oa]: rico en materia orgánica, 100% humus.
             .BGR05.p-3(x="84%" y="33%" numero="+")
               ul.lista-ul--color
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b Ap]: suelos perturbados por agricultura. 
+                  p.mb-0 #[b Ap]: suelos perturbados por agricultura.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
                   p.mb-0 #[b Ab]: sub horizonte rico en minerales.
@@ -247,28 +247,28 @@
                   p.mb-0 #[b Bh y Bhs]: materia orgánica.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b Bk]: riqueza de carbonatos. 
+                  p.mb-0 #[b Bk]: riqueza de carbonatos.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b Bl]: capa porosa que retiene gran cantidad de agua. 
+                  p.mb-0 #[b Bl]: capa porosa que retiene gran cantidad de agua.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b Bo]: concentración residual de óxidos de hierro y aluminio. 
+                  p.mb-0 #[b Bo]: concentración residual de óxidos de hierro y aluminio.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b Bq]: acumulación de sílice patogenético. 
+                  p.mb-0 #[b Bq]: acumulación de sílice patogenético.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b Bs]: acumulación de óxidos de hierro y aluminio. 
+                  p.mb-0 #[b Bs]: acumulación de óxidos de hierro y aluminio.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
                   p.mb-0 #[b Bw]: riquezas de arcillas silicatadas y liberación de óxidos.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b Bt]: acumulación de arcilla. 
+                  p.mb-0 #[b Bt]: acumulación de arcilla.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b By]: rico en yeso. 
+                  p.mb-0 #[b By]: rico en yeso.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
                   p.mb-0 #[b Bg]: horizonte que pasó por glaciación.
@@ -276,13 +276,13 @@
               ul.lista-ul--color
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b Cu]: intrusiones de materiales urbanos y de creación humana. 
+                  p.mb-0 #[b Cu]: intrusiones de materiales urbanos y de creación humana.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b Cr]: características químicas reduccionistas en el contexto redox. 
+                  p.mb-0 #[b Cr]: características químicas reduccionistas en el contexto redox.
                 li(style="margin-bottom:2px")
                   i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                  p.mb-0 #[b Cox]: horizonte con rasgos de haber sido oxidado o intemperizado.   
+                  p.mb-0 #[b Cox]: horizonte con rasgos de haber sido oxidado o intemperizado.
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.BGIMG04.p-5
@@ -291,32 +291,32 @@
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Características y parámetros físicos
-    
+
     p Las fases del suelo son: fase sólida, fase líquida o la cantidad de agua que se encuentra en el suelo, y la fase gaseosa que se refiere a la atmósfera que se encuentra en el suelo, como se aprecia a continuación; cada una de ellas está conformada por unas características, a saber:
 
     .row.justify-content-center.mb-4
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        figure.mb-4 
+        figure.mb-4
           img(src='@/assets/curso/tema1/img22.svg')
         .h4 Fase sólida
         p.mb-0 Está compuesta por materia orgánica como restos de plantas, fauna y microorganismos en descomposición y, una gran mayoría de compuestos inorgánicos, que juntos crean un sistema de huecos (poros) relevante en las funciones del suelo.
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="flip-up")
-        figure.mb-4 
+        figure.mb-4
           img(src='@/assets/curso/tema1/img23.svg')
         .h4 Fase líquida o agua del suelo
         p.mb-0 Ocupa los espacios porosos que posee el suelo, está compuesta por iones disueltos en concentraciones muy bajas y agua, la cantidad de esta es variable y permite variaciones en la actividad biológica del suelo en un mismo día.
       .col-lg-4.col-8(data-aos="fade-left")
-        figure.mb-4 
+        figure.mb-4
           img(src='@/assets/curso/tema1/img24.svg')
         .h4 Fase gaseosa o atmósfera del suelo
         p.mb-0 Gases como el oxígeno, el nitrógeno, dióxido de carbono y vapor de agua, son los encargados de proporcionar oxígeno al suelo para que las raíces y los organismos respiren.
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.cajon.color-acento-contenido.p-4
-        p.mb-0 El tamaño de las partículas minerales que conforman el suelo, determina sus propiedades y los elementos de la calidad, los cuales incluyen propiedades físicas, químicas y biológicas como textura, estructura, porosidad y color. 
-    
+        p.mb-0 El tamaño de las partículas minerales que conforman el suelo, determina sus propiedades y los elementos de la calidad, los cuales incluyen propiedades físicas, químicas y biológicas como textura, estructura, porosidad y color.
+
     .h4 Propiedades físicas de los suelos
-    p Estas cualidades dependen principalmente del contenido de arenas, limos, arcillas, agua, disponibilidad de nutrientes y otras. Las características que más se destacan son: 
+    p Estas cualidades dependen principalmente del contenido de arenas, limos, arcillas, agua, disponibilidad de nutrientes y otras. Las características que más se destacan son:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       TabsA.color-acento-contenido
@@ -336,13 +336,13 @@
             ul.lista-ul--color
               li(style="margin-bottom:2px")
                 i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                p.mb-0 #[b Suelos francos]:  son el resultado de la mezcla de arenas, arcillas y limos, equilibrados en cantidad de minerales ideales para la agricultura, mantienen la humedad, diluyen fácilmente los nutrientes provenientes de materia orgánica que son para las plantas. 
+                p.mb-0 #[b Suelos francos]:  son el resultado de la mezcla de arenas, arcillas y limos, equilibrados en cantidad de minerales ideales para la agricultura, mantienen la humedad, diluyen fácilmente los nutrientes provenientes de materia orgánica que son para las plantas.
               li(style="margin-bottom:2px")
                 i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                p.mb-0 #[b Suelos arenosos]: compuestos principalmente por arena, son sueltos con muchos espacios, el agua se filtra rápidamente, bajo en nutrientes para sostener la vegetación. 
+                p.mb-0 #[b Suelos arenosos]: compuestos principalmente por arena, son sueltos con muchos espacios, el agua se filtra rápidamente, bajo en nutrientes para sostener la vegetación.
               li(style="margin-bottom:2px")
                 i.fas.fa-circle(style="color: #169788; font-size: x-small;")
-                p.mb-0 #[b Suelos limosos]: con partículas de tamaño medio a fino, de composición química similar a los arenosos, no tienen la capacidad de unirse. 
+                p.mb-0 #[b Suelos limosos]: con partículas de tamaño medio a fino, de composición química similar a los arenosos, no tienen la capacidad de unirse.
               li(style="margin-bottom:2px")
                 i.fas.fa-circle(style="color: #169788; font-size: x-small;")
                 p.mb-0 #[b Suelos arcillosos]: compuestos por partículas muy finas, que se unen fácilmente, son poco permeables, generando encharcamientos en las superficies, al estar secos forman terrones difíciles de desintegrar.
@@ -359,29 +359,29 @@
             h4 Estructuras del suelo
             p Son las formas en que se agrupan las partículas individuales del suelo y dan lugar a agregados de diferentes tamaños así:
             .BG04.p-4.mb-4
-              p.text-white.mb-0 
+              p.text-white.mb-0
               ul.lista-ul--color.mb-0
                 li(style="margin-bottom:2px")
                     i.fas.fa-circle(style="color: #fff; font-size: x-small;")
-                    p.text-white.mb-0 #[b Granular]: comunes en el horizonte A, en el cual las raíces de las plantas alcanzan a ingresar. 
+                    p.text-white.mb-0 #[b Granular]: comunes en el horizonte A, en el cual las raíces de las plantas alcanzan a ingresar.
                 li(style="margin-bottom:2px")
                     i.fas.fa-circle(style="color: #fff; font-size: x-small;")
-                    p.text-white.mb-0 #[b Bloques]: poseen desde formas salientes y pronunciadas hasta aquellas un poco más redondas. 
+                    p.text-white.mb-0 #[b Bloques]: poseen desde formas salientes y pronunciadas hasta aquellas un poco más redondas.
                 li(style="margin-bottom:2px")
                     i.fas.fa-circle(style="color: #fff; font-size: x-small;")
-                    p.text-white.mb-0 #[b Prismas]: estos agregados se desarrollan a una profundidad considerable y poseen esta forma. 
+                    p.text-white.mb-0 #[b Prismas]: estos agregados se desarrollan a una profundidad considerable y poseen esta forma.
                 li(style="margin-bottom:2px")
                     i.fas.fa-circle(style="color: #fff; font-size: x-small;")
-                    p.text-white.mb-0 #[b Plato]: se desarrollan en esta forma, debido a la gran presión a la que se enfrentan creciendo de manera horizontal. 
+                    p.text-white.mb-0 #[b Plato]: se desarrollan en esta forma, debido a la gran presión a la que se enfrentan creciendo de manera horizontal.
                 li(style="margin-bottom:2px")
                     i.fas.fa-circle(style="color: #fff; font-size: x-small;")
                     p.text-white.mb-0 #[b Granos individuales]: son partículas que no se pegan y no forman ningún tipo de agregado.
                 li(style="margin-bottom:2px")
                     i.fas.fa-circle(style="color: #fff; font-size: x-small;")
-                    p.text-white.mb-0 #[b Masiva]: son agregados de gran tamaño. 
+                    p.text-white.mb-0 #[b Masiva]: son agregados de gran tamaño.
                 li(style="margin-bottom:2px")
                     i.fas.fa-circle(style="color: #fff; font-size: x-small;")
-                    p.text-white.mb-0 #[b Vesicular]: son agregados con poros muy grandes.  
+                    p.text-white.mb-0 #[b Vesicular]: son agregados con poros muy grandes.
             p.mb-0 Esta clasificación es la que permite determinar la permeabilidad del suelo.
           .col-lg-5
             img(src='@/assets/curso/tema1/img28.svg')
@@ -412,15 +412,15 @@
             p Concentración de hidrógeno en los compuestos que forman el suelo.
           .col-lg-5
             img(src='@/assets/curso/tema1/img32.svg')
-    
+
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.cajon.color-acento-contenido.p-4
         p.mb-0 Gracias a los componentes vivos presentes en el suelo, se pueden llevar a cabo procesos de transformación de la materia orgánica, desarrollo de los ciclos biogeoquímicos por el secuestro del carbono y la presencia de bacterias que fijan el nitrógeno y el fósforo principalmente; además de generar las condiciones propicias para el crecimiento de las plantas y el equilibrio ecosistémico.
-    
+
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Características y componentes biológicos
-    
+
     p A los organismos vivos que se encuentran en el suelo se les conoce como componentes biológicos y cumplen unas funciones específicas que son:
 
     .row.justify-content-center.mb-4.mb-5(data-aos="flip-up")
@@ -429,7 +429,7 @@
           .row.justify-content-center
             .col-9.mb-lg-0.mb-4(data-aos="fade-right")
               h4 Organismos vivos que lo habitan
-              p El suelo no es considerado un cuerpo inerte, presenta en su composición organismos vivos que lo habitan, estos organismos son llamados macro fauna, mesofauna y microfauna, los cuales dinamizan e interactúan con los demás componentes; se puede encontrar microorganismos como hongos, bacterias como gusanos y ácaros, lombrices de tierra, milpiés, caracoles o escarabajos de la madera. Además de otros insectos en todos sus estados de metamorfosis.
+              p El suelo no es considerado un cuerpo inerte, presenta en su composición organismos vivos que lo habitan, estos organismos son llamados macrofauna, mesofauna y microfauna, los cuales dinamizan e interactúan con los demás componentes; se puede encontrar microorganismos como hongos, bacterias como gusanos y ácaros, lombrices de tierra, milpiés, caracoles o escarabajos de la madera. Además de otros insectos en todos sus estados de metamorfosis.
               p.mb-0 Entre las funciones de los organismos del suelo se encuentran:
             .col-lg-2.col-3(data-aos="fade-left")
               img(src='@/assets/curso/tema1/img33.svg')
@@ -438,7 +438,7 @@
               img(src='@/assets/curso/tema1/img34.svg')
             .col-9.mb-lg-0.mb-4(data-aos="fade-left")
               h4.text-start Macrofauna, mesofauna y microfauna
-              p.text-start.mb-0 Aumentan la porosidad, aireación, permeabilidad y calidad del suelo, por la mezcla de materiales en el mismo. Gracias a la acción de la macro fauna, especialmente la de las lombrices de tierra, quienes ingieren grandes cantidades de materia orgánica a diario, para posteriormente excretar una mezcla de esta con minerales que aportan humedad y un pH neutro al suelo.
+              p.text-start.mb-0 Aumentan la porosidad, aireación, permeabilidad y calidad del suelo, por la mezcla de materiales en el mismo. Gracias a la acción de la macrofauna, especialmente la de las lombrices de tierra, quienes ingieren grandes cantidades de materia orgánica a diario, para posteriormente excretar una mezcla de esta con minerales que aportan humedad y un pH neutro al suelo.
           .row.justify-content-center
             .col-9.mb-lg-0.mb-4(data-aos="fade-right")
               h4 Mejoran la estructura del suelo
@@ -485,7 +485,7 @@
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4 Biogeoquímica del suelo
-    
+
     .cajon-b.color-primario.img-full.p-3.mb-4(data-aos="fade-right")
       p.mb-0 Los ciclos biogeoquímicos se refieren a la circulación de nutrientes que están en el entorno, entendiéndose este como atmósfera, agua o suelo y que regresan a estos después de pasar por los organismos vivos por medio de reacciones químicas.
 
@@ -521,8 +521,8 @@
 
     separador
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.5 Factores biodegradantes del suelo, riesgos y tratamientos 
-    
+      h2 1.5 Factores biodegradantes del suelo, riesgos y tratamientos
+
     p El manejo inadecuado de los suelos, el agotamiento de nutrientes, así como el desequilibrio en los ciclos biogeoquímicos, influyen en el agotamiento del recurso, a continuación, se conocerán sus factores biodegradantes.
     .h5.mb-5 Los factores que pueden degradar los suelos están dados principalmente por el uso no sostenible de este en los sectores agropecuarios, industriales y mineros. Las principales amenazas para el suelo son: la erosión, la salinización, la pérdida de carbono orgánico, contaminación de los suelos, pérdida de la biodiversidad y compactación que inevitablemente llevan a procesos de desertificación.
 
@@ -540,15 +540,15 @@
             p Las afectaciones generadas al suelo están relacionadas con el crecimiento demográfico y el uso de la tierra. Entre las estrategias propuestas para solventar estas afectaciones está la restauración de la productividad del suelo con técnicas de manejo e incremento de fertilidad, cambio en prácticas agrícolas e inclusión de tecnología para mejorar el rendimiento de cultivos, promoción de prácticas agrícolas apropiadas y gestión de tierras sostenibles en las áreas cultivables y, el uso eficiente de insumos agrícolas para aumentar el suministro de alimentos.
           .col-lg-5
             img(src='@/assets/curso/tema1/img47.svg')
-    
+
     separador
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.6 Marco normativo
-    
+
     p En cuanto a la normatividad vigente, a continuación, se listan algunas de las normas más relevantes con respecto a la protección del suelo, su ordenación y manejo para Colombia.
-    p Colombia ha hecho parte de los firmantes de diversos tratados, convenciones y declaraciones sobre protección ambiental entre las que destacan la Declaración de la Conferencia de las Naciones Unidas sobre el ambiente humano en 1972, la Declaración de Río de Janeiro sobre ambiente y desarrollo, el convenio sobre diversidad biológica, la Convención de Naciones Unidas para el cambio climático en 1992,  la Convención de Naciones Unidas de lucha contra la desertificación y sequía en 1994, la Declaración de Johannesburgo sobre desarrollo sostenible en 2002 y la Declaración de Nairobi en 2009 los cuales propenden por la protección de los recursos ambientales, entre ellos el suelo. 
-    .h5.mb-5 Adicional a ello, en el país se han promulgado diferentes leyes, decretos y resoluciones que respaldan los acuerdos firmados anteriormente, tales como: 
-    
+    p Colombia ha hecho parte de los firmantes de diversos tratados, convenciones y declaraciones sobre protección ambiental entre las que destacan la Declaración de la Conferencia de las Naciones Unidas sobre el ambiente humano en 1972, la Declaración de Río de Janeiro sobre ambiente y desarrollo, el convenio sobre diversidad biológica, la Convención de Naciones Unidas para el cambio climático en 1992,  la Convención de Naciones Unidas de lucha contra la desertificación y sequía en 1994, la Declaración de Johannesburgo sobre desarrollo sostenible en 2002 y la Declaración de Nairobi en 2009 los cuales propenden por la protección de los recursos ambientales, entre ellos el suelo.
+    .h5.mb-5 Adicional a ello, en el país se han promulgado diferentes leyes, decretos y resoluciones que respaldan los acuerdos firmados anteriormente, tales como:
+
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.mb-lg-0.mb-4(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
